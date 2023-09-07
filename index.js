@@ -1,1 +1,2 @@
-first try in github
+consolr.log("hello");
+// first try in github
